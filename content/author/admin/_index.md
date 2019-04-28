@@ -80,7 +80,7 @@ user_groups = ["Researchers", "Visitors"]
 
 I am a postdoctoral researcher in Genetics with [Daniel Schrider](https://www.schriderlab.org/).
 I am interested in using genomic data to learn about evolutionary history, 
-and has focused my work on recent demographic history of populations. 
+and have focused my work on recent demographic history of populations. 
 I enjoy tackling large computational problems in order to answer biological questions.
 
 When I'm not working in the lab, I like to play with my two dogs, and train in circus arts and figure skating.
